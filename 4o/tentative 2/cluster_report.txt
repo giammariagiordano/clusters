@@ -1,0 +1,41 @@
+Cluster 0.0 - Characteristics:
+  - Average Followers: 269.52
+  - Average Public Repos: 76.25
+  - Average Years on GitHub: 10.11
+  - Average Commit Count: 42.67
+  - Average PR Count: 36.84
+  - Average Bugs Solved: 4.38
+
+Cluster 1.0 - Characteristics:
+  - Average Followers: 778.55
+  - Average Public Repos: 72.95
+  - Average Years on GitHub: 10.65
+  - Average Commit Count: 1843.00
+  - Average PR Count: 2017.15
+  - Average Bugs Solved: 131.50
+
+Cluster 2.0 - Characteristics:
+  - Average Followers: 1806.50
+  - Average Public Repos: 43.00
+  - Average Years on GitHub: 11.50
+  - Average Commit Count: 2842.00
+  - Average PR Count: 1455.00
+  - Average Bugs Solved: 97.00
+
+Cluster 3.0 - Characteristics:
+  - Average Followers: 1374.25
+  - Average Public Repos: 95.00
+  - Average Years on GitHub: 12.50
+  - Average Commit Count: 7.12
+  - Average PR Count: 9.00
+  - Average Bugs Solved: 0.00
+
+
+Cluster 0 → Newbie Coders
+(Mostly beginners — fewer followers, moderate repo counts, fewer contributions)
+	•	Cluster 1 → Veteran Powerhouses
+(Long-time users, high followers, many public repos, tons of commits and PRs)
+	•	Cluster 2 → Consistent Contributors
+(Steady workers — moderate in everything, reliable but not extremely famous)
+	•	Cluster 3 → Casual Participants
+(Occasional contributors — a bit more time on GitHub, but low activity overall)

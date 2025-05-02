@@ -1,0 +1,46 @@
+### High-Volume Committers (Cluster 0, 151 developers)
+**Key quantitative traits**
+- Followers: median 91.0, mean 368.9
+- Stars: median 21.0, mean 134.3
+- Commit Count: median 185.0, mean 514.1
+- Public Repos: median 42.0, mean 67.0
+- Years on GitHub: median 11.0, mean 11.1
+
+**Rationale for grouping**
+These developers consistently push large volumes of code. Their high commit count indicates they are actively iterating on projects, often acting as core implementers or rapid prototypers. Despite comparatively moderate social metrics (followers, stars), their activity level is their defining trait.
+
+
+### High-Visibility Maintainers (Cluster 1,275 developers)
+**Key quantitative traits**
+- Followers: median 190.0, mean 864.8
+- Stars: median 105.0, mean 672.5
+- Commit Count: median 2.0, mean 6.4
+- Public Repos: median 94.0, mean 168.2
+- Years on GitHub: median 12.0, mean 11.7
+
+**Rationale for grouping**
+This group maintains highly visible repositories that garner significant community attention (followers, stars). They may oversee multiple projects, focusing on design, architecture, and issue triage rather than day‑to‑day commits.
+
+
+### Occasional Contributors (Cluster 2, 421 developers)
+**Key quantitative traits**
+- Followers: median 16.0, mean 28.3
+- Stars: median 7.0, mean 17.6
+- Commit Count: median 1.0, mean 3.9
+- Public Repos: median 37.0, mean 50.4
+- Years on GitHub: median 11.0, mean 11.0
+
+**Rationale for grouping**
+Developers who contribute on an occasional basis—perhaps on weekends or when specific needs arise. Their metrics sit around or slightly below overall medians. They show steady but infrequent engagement.
+
+
+### New Entrants (Cluster 3, 215 developers)
+**Key quantitative traits**
+- Followers: median 3.0, mean 8.9
+- Stars: median 0.0, mean 11.6
+- Commit Count: median 2.0, mean 26.1
+- Public Repos: median 9.0, mean 15.9
+- Years on GitHub: median 5.0, mean 5.9
+
+**Rationale for grouping**
+Newest arrivals to the GitHub ecosystem. Low tenure and minimal social footprint suggest they are still exploring open‑source workflows or ramping up on personal portfolio projects.

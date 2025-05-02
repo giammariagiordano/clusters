@@ -1,0 +1,25 @@
+
+Cluster 0: "Steady Contributors"
+- **Traits**: Moderate followers (~270), about 76 public repositories, average GitHub experience (~10 years).
+- **Behavior**: Active but not explosive; steady commit and issue activity, moderate insertions and deletions.
+- **Motivation for grouping**: This group embodies consistent contributors — not celebrities, but regular coders pushing the community forward.
+- **Reasoning**: Mid-range metrics across followers, commits, insertions, and repository counts.
+
+Cluster 1: "Heavyweight Developers"
+- **Traits**: High followers (~780), large commit counts (~1800), very high code insertions/deletions.
+- **Behavior**: Professional-level contribution volumes, deep involvement across multiple projects.
+- **Motivation for grouping**: The statistical peaks in bugs solved, features implemented, and task resolution sharply distinguished them.
+- **Reasoning**: Their very high activity, issue tracking, and heavy repo participation make them 'industry players.'
+
+Cluster 2: "Elite Open-Source Maintainers"
+- **Traits**: Astronomical stars (avg ~11,000 stars), very high forks (1500+), low commit frequency.
+- **Behavior**: Focused more on project ownership and maintenance rather than day-to-day coding.
+- **Motivation for grouping**: Their extreme popularity metrics (stars and forks) despite fewer commits made them unique.
+- **Reasoning**: They represent top-tier repository owners whose projects impact large developer communities.
+
+Cluster 3: "Legacy Powerhouses"
+- **Traits**: Very high commit counts (~2800), massive insertions/deletions (~5 million lines changed), moderate followers (~1800).
+- **Behavior**: Veterans with long-standing contributions across large codebases.
+- **Motivation for grouping**: Their longevity and massive codebase involvement with a moderate online following are distinct.
+- **Reasoning**: Although they don't chase followers or stars aggressively, their code contributions define their reputation.
+

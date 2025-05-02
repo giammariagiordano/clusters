@@ -1,0 +1,29 @@
+Cluster “Typical Contributors” — Size: 1038 developers
+------------------------------------------------------------
+Median followers: 27
+Median public repos: 38
+Median stars given to their repos: 10
+Median commits in sample period: 2
+
+Rationale: Represents the broad base of active developers with moderate public‑repo counts, modest follower bases, and limited project reach. Their contribution patterns are steady but not high‑volume.
+
+
+Cluster “Code Powerhouses” — Size: 16 developers
+------------------------------------------------------------
+Median followers: 247
+Median public repos: 54
+Median stars given to their repos: 48
+Median commits in sample period: 1931
+
+Rationale: High‑throughput contributors who drive large code volumes: high commit counts, massive line changes and frequent issue / PR activity. They often act as project maintainers or core team members.
+
+
+Cluster “Open Source Celebrities” — Size: 8 developers
+------------------------------------------------------------
+Median followers: 1094
+Median public repos: 72
+Median stars given to their repos: 11786
+Median commits in sample period: 4
+
+Rationale: Developers behind star‑magnet repositories. They enjoy very large follower counts and exceptional star / watcher ratios, despite submitting fewer commits themselves. Their influence stems from flagship projects that attract a vast community.
+

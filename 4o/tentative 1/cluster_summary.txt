@@ -1,0 +1,15 @@
+
+Cluster 0:
+- Characteristics: Moderate number of followers, balanced activity (moderate repos, stars, and contributions).
+- Motivation: These developers show a balanced profile between contributions and recognition, not extreme but clearly active.
+- Possible Name: "Steady Contributors"
+
+Cluster 1:
+- Characteristics: Large number of users but mostly low activity (few followers, few repos, few stars).
+- Motivation: Majority of the developers are relatively less active or newer on platforms.
+- Possible Name: "Silent Majority"
+
+Cluster 2:
+- Characteristics: Very high number of followers, stars, and significant GitHub presence despite small number of developers.
+- Motivation: These are standout developers with impressive public profiles and impact.
+- Possible Name: "Elite Influencers"

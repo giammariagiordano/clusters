@@ -1,0 +1,11 @@
+Cluster 0 — Established Mid‑Level Contributors (n=1038)
+Characteristics: Moderate follower count, a healthy number of public repositories, steady commit volume, and balanced issue/PR activity. Typically 8–12 years on GitHub with consistent but not extreme popularity.
+Motivation: Group developers who are active and experienced enough to be reliable collaborators, but not so overloaded with high‑visibility responsibilities that outreach might be ignored.
+
+Cluster 1 — Powerhouse Maintainers (n=16)
+Characteristics: Very high commit counts (hundreds to thousands), massive lines changed, and large numbers of bugs fixed and features shipped. Followership is strong but secondary to raw contribution volume.
+Motivation: Isolate the heavy lifters who drive major open‑source projects so that tailored tooling, sponsorship offers, or performance analytics can be directed where they’ll have maximum impact.
+
+Cluster 2 — Superstar Project Owners (n=8)
+Characteristics: Relatively small in number but with exceptionally high star, fork, and watcher counts—an indication of owning or leading widely‑used projects. Commit counts are lower because their role skews toward stewardship and vision.
+Motivation: Separate the brand‑name maintainers whose projects attract large communities; ideal for partnership, keynote invitations, or case studies.

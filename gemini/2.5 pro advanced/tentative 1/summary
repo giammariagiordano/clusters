@@ -1,0 +1,252 @@
+Developer Clustering Summary (Final)
+=====================================
+
+Cluster Name: Active Backend & Data/ML Specialists
+-----------------------------
+Characteristics:
+  - Number of Developers: 5
+  - Primary Grouping: Based on 'Active' activity level and focus on 'Backend & Data/ML Specialists'.
+  - Average Commits (approx): 39.4
+  - Average Years on GitHub (approx): 10.4
+  - Average Followers (approx): 56.8
+  - Common Contribution Types: No Specific Tasks Recorded, Mixed (Features & Bugs)
+  - Observed Technical Focuses (Top 3): Backend & Data/ML
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Active') and inferred technical specialization ('Backend & Data/ML Specialists').
+  - Helps identify highly engaged contributors, potentially key players or experts in specific areas.
+Possible Name: Active Backend & Data/ML Specialists (The generated name aims to be descriptive)
+
+Cluster Name: Active Backend Developers
+-----------------------------
+Characteristics:
+  - Number of Developers: 70
+  - Primary Grouping: Based on 'Active' activity level and focus on 'Backend Developers'.
+  - Average Commits (approx): 103.4
+  - Average Years on GitHub (approx): 10.3
+  - Average Followers (approx): 370.4
+  - Common Contribution Types: General Tasks / Other, No Specific Tasks Recorded
+  - Observed Technical Focuses (Top 3): Backend
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Active') and inferred technical specialization ('Backend Developers').
+  - Helps identify highly engaged contributors, potentially key players or experts in specific areas.
+Possible Name: Active Backend Developers (The generated name aims to be descriptive)
+
+Cluster Name: Active Data Science/ML Specialists
+-----------------------------
+Characteristics:
+  - Number of Developers: 60
+  - Primary Grouping: Based on 'Active' activity level and focus on 'Data Science/ML Specialists'.
+  - Average Commits (approx): 88.1
+  - Average Years on GitHub (approx): 9.8
+  - Average Followers (approx): 136.8
+  - Common Contribution Types: No Specific Tasks Recorded, General Tasks / Other
+  - Observed Technical Focuses (Top 3): Data Science/ML
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Active') and inferred technical specialization ('Data Science/ML Specialists').
+  - Helps identify highly engaged contributors, potentially key players or experts in specific areas.
+Possible Name: Active Data Science/ML Specialists (The generated name aims to be descriptive)
+
+Cluster Name: Active DevOps/Infra Engineers
+-----------------------------
+Characteristics:
+  - Number of Developers: 16
+  - Primary Grouping: Based on 'Active' activity level and focus on 'DevOps/Infra Engineers'.
+  - Average Commits (approx): 70.3
+  - Average Years on GitHub (approx): 9.9
+  - Average Followers (approx): 59.2
+  - Common Contribution Types: No Specific Tasks Recorded, Bug Fixing Focused
+  - Observed Technical Focuses (Top 3): DevOps/Infra
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Active') and inferred technical specialization ('DevOps/Infra Engineers').
+  - Helps identify highly engaged contributors, potentially key players or experts in specific areas.
+Possible Name: Active DevOps/Infra Engineers (The generated name aims to be descriptive)
+
+Cluster Name: Active Embedded/Systems Developers
+-----------------------------
+Characteristics:
+  - Number of Developers: 92
+  - Primary Grouping: Based on 'Active' activity level and focus on 'Embedded/Systems Developers'.
+  - Average Commits (approx): 432.8
+  - Average Years on GitHub (approx): 10.1
+  - Average Followers (approx): 376.4
+  - Common Contribution Types: General Tasks / Other, Bug Fixing Focused
+  - Observed Technical Focuses (Top 3): Embedded/Systems
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Active') and inferred technical specialization ('Embedded/Systems Developers').
+  - Helps identify highly engaged contributors, potentially key players or experts in specific areas.
+Possible Name: Active Embedded/Systems Developers (The generated name aims to be descriptive)
+
+Cluster Name: Active Frontend Developers
+-----------------------------
+Characteristics:
+  - Number of Developers: 50
+  - Primary Grouping: Based on 'Active' activity level and focus on 'Frontend Developers'.
+  - Average Commits (approx): 310.8
+  - Average Years on GitHub (approx): 11.2
+  - Average Followers (approx): 298.0
+  - Common Contribution Types: General Tasks / Other, No Specific Tasks Recorded
+  - Observed Technical Focuses (Top 3): Frontend
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Active') and inferred technical specialization ('Frontend Developers').
+  - Helps identify highly engaged contributors, potentially key players or experts in specific areas.
+Possible Name: Active Frontend Developers (The generated name aims to be descriptive)
+
+Cluster Name: Active Fullstack Developers
+-----------------------------
+Characteristics:
+  - Number of Developers: 3
+  - Primary Grouping: Based on 'Active' activity level and focus on 'Fullstack Developers'.
+  - Average Commits (approx): 73.7
+  - Average Years on GitHub (approx): 9.3
+  - Average Followers (approx): 354.7
+  - Common Contribution Types: No Specific Tasks Recorded, General Tasks / Other
+  - Observed Technical Focuses (Top 3): Fullstack
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Active') and inferred technical specialization ('Fullstack Developers').
+  - Helps identify highly engaged contributors, potentially key players or experts in specific areas.
+Possible Name: Active Fullstack Developers (The generated name aims to be descriptive)
+
+Cluster Name: Active General Contributors
+-----------------------------
+Characteristics:
+  - Number of Developers: 27
+  - Primary Grouping: Based on 'Active' activity level and focus on 'General Contributors'.
+  - Average Commits (approx): 24.9
+  - Average Years on GitHub (approx): 12.5
+  - Average Followers (approx): 75.2
+  - Common Contribution Types: No Specific Tasks Recorded, Bug Fixing Focused
+  - Observed Technical Focuses (Top 3): General / Unclassified
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Active') and inferred technical specialization ('General Contributors').
+  - Helps identify highly engaged contributors, potentially key players or experts in specific areas.
+Possible Name: Active General Contributors (The generated name aims to be descriptive)
+
+Cluster Name: Active Mobile Developers
+-----------------------------
+Characteristics:
+  - Number of Developers: 36
+  - Primary Grouping: Based on 'Active' activity level and focus on 'Mobile Developers'.
+  - Average Commits (approx): 423.7
+  - Average Years on GitHub (approx): 10.1
+  - Average Followers (approx): 250.1
+  - Common Contribution Types: General Tasks / Other, No Specific Tasks Recorded
+  - Observed Technical Focuses (Top 3): Mobile
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Active') and inferred technical specialization ('Mobile Developers').
+  - Helps identify highly engaged contributors, potentially key players or experts in specific areas.
+Possible Name: Active Mobile Developers (The generated name aims to be descriptive)
+
+Cluster Name: Active Security Specialists
+-----------------------------
+Characteristics:
+  - Number of Developers: 2
+  - Primary Grouping: Based on 'Active' activity level and focus on 'Security Specialists'.
+  - Average Commits (approx): 4.5
+  - Average Years on GitHub (approx): 9.5
+  - Average Followers (approx): 105.5
+  - Common Contribution Types: No Specific Tasks Recorded, Feature Focused
+  - Observed Technical Focuses (Top 3): Security
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Active') and inferred technical specialization ('Security Specialists').
+  - Helps identify highly engaged contributors, potentially key players or experts in specific areas.
+Possible Name: Active Security Specialists (The generated name aims to be descriptive)
+
+Cluster Name: Low Activity Established Users
+-----------------------------
+Characteristics:
+  - Number of Developers: 327
+  - Primary Grouping: Based on 'Low' activity level and focus on 'Activity Established Users'.
+  - Common Contribution Types: No Specific Tasks Recorded, Bug Fixing Focused
+  - Observed Technical Focuses (Top 3): General / Unclassified, Data Science/ML, Backend
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Low') and inferred technical specialization ('Activity Established Users').
+  - Groups users with minimal contribution history, possibly indicating infrequent users or those focused on non-code activities not captured well here.
+Possible Name: Low Activity Established Users (The generated name aims to be descriptive)
+
+Cluster Name: Moderate Activity Backend Developers
+-----------------------------
+Characteristics:
+  - Number of Developers: 36
+  - Primary Grouping: Based on 'Moderate' activity level and focus on 'Activity Backend Developers'.
+  - Average Commits (approx): 2.4
+  - Average Years on GitHub (approx): 12.5
+  - Average Followers (approx): 2899.3
+  - Common Contribution Types: No Specific Tasks Recorded, Bug Fixing Focused
+  - Observed Technical Focuses (Top 3): Backend
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Moderate') and inferred technical specialization ('Activity Backend Developers').
+  - Represents developers with consistent but less intensive engagement compared to the 'Active' group.
+Possible Name: Moderate Activity Backend Developers (The generated name aims to be descriptive)
+
+Cluster Name: Moderate Activity DevOps/Infra
+-----------------------------
+Characteristics:
+  - Number of Developers: 8
+  - Primary Grouping: Based on 'Moderate' activity level and focus on 'Activity DevOps/Infra'.
+  - Average Commits (approx): 3.8
+  - Average Years on GitHub (approx): 12.6
+  - Average Followers (approx): 773.8
+  - Common Contribution Types: No Specific Tasks Recorded
+  - Observed Technical Focuses (Top 3): DevOps/Infra
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Moderate') and inferred technical specialization ('Activity DevOps/Infra').
+  - Represents developers with consistent but less intensive engagement compared to the 'Active' group.
+Possible Name: Moderate Activity DevOps/Infra (The generated name aims to be descriptive)
+
+Cluster Name: Moderate Activity Frontend Developers
+-----------------------------
+Characteristics:
+  - Number of Developers: 14
+  - Primary Grouping: Based on 'Moderate' activity level and focus on 'Activity Frontend Developers'.
+  - Average Commits (approx): 2.4
+  - Average Years on GitHub (approx): 12.4
+  - Average Followers (approx): 569.3
+  - Common Contribution Types: No Specific Tasks Recorded, Feature Focused
+  - Observed Technical Focuses (Top 3): Frontend
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Moderate') and inferred technical specialization ('Activity Frontend Developers').
+  - Represents developers with consistent but less intensive engagement compared to the 'Active' group.
+Possible Name: Moderate Activity Frontend Developers (The generated name aims to be descriptive)
+
+Cluster Name: Moderate Activity Fullstack Developers
+-----------------------------
+Characteristics:
+  - Number of Developers: 2
+  - Primary Grouping: Based on 'Moderate' activity level and focus on 'Activity Fullstack Developers'.
+  - Average Commits (approx): 2.0
+  - Average Years on GitHub (approx): 11.5
+  - Average Followers (approx): 57.5
+  - Common Contribution Types: No Specific Tasks Recorded
+  - Observed Technical Focuses (Top 3): Fullstack
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Moderate') and inferred technical specialization ('Activity Fullstack Developers').
+  - Represents developers with consistent but less intensive engagement compared to the 'Active' group.
+Possible Name: Moderate Activity Fullstack Developers (The generated name aims to be descriptive)
+
+Cluster Name: Moderate Activity General/Specialized
+-----------------------------
+Characteristics:
+  - Number of Developers: 142
+  - Primary Grouping: Based on 'Moderate' activity level and focus on 'Activity General/Specialized'.
+  - Average Commits (approx): 2.6
+  - Average Years on GitHub (approx): 12.6
+  - Average Followers (approx): 274.1
+  - Common Contribution Types: No Specific Tasks Recorded, General Tasks / Other
+  - Observed Technical Focuses (Top 3): General / Unclassified, Data Science/ML, Mobile
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Moderate') and inferred technical specialization ('Activity General/Specialized').
+  - Represents developers with consistent but less intensive engagement compared to the 'Active' group.
+Possible Name: Moderate Activity General/Specialized (The generated name aims to be descriptive)
+
+Cluster Name: Newcomers / Low Activity
+-----------------------------
+Characteristics:
+  - Number of Developers: 172
+  - Primary Grouping: Based on 'Newcomers' activity level and focus on '/ Low Activity'.
+  - Common Contribution Types: No Specific Tasks Recorded, General Tasks / Other
+  - Observed Technical Focuses (Top 3): General / Unclassified, Data Science/ML, Backend
+Motivation for Cluster:
+  - To group developers exhibiting a distinct combination of GitHub activity level ('Newcomers') and inferred technical specialization ('/ Low Activity').
+  - Isolates developers likely newer to the platform or with very low initial activity, useful for understanding onboarding or early engagement.
+Possible Name: Newcomers / Low Activity (The generated name aims to be descriptive)
+
